@@ -1,0 +1,2 @@
+🧩 PROBLEM STATEMENT
+To analyze customer and product data from a multi-table relational dataset to uncover key business insights such as customer demographics, product performance, sales distribution, and regional trends. The goal is to apply SQL for data exploration and cleaning, and visualize findings through a Power BI dashboard.
